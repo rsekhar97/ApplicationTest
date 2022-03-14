@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ApplicationTest</string>
+
+    <string name="search">Search</string>
+    <string name="search_Articles">Search Articles</string>
+    <string name="ArticlesList">Articles List</string>
+    <string name="Popular">Popular</string>
+    <string name="Most_Viewed">Most Viewed</string>
+    <string name="Most_Shared">Most Shared</string>
+    <string name="Most_Emailed">Most Emailed</string>
+
+</resources>
